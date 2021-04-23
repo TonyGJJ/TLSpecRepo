@@ -1,0 +1,16 @@
+PODS:
+  - TLTestPod (0.1.0)
+
+DEPENDENCIES:
+  - TLTestPod (from `../`)
+
+EXTERNAL SOURCES:
+  TLTestPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TLTestPod: 8f4bcc4d567eac5d1c24a906415d8bdb8b967e3f
+
+PODFILE CHECKSUM: e9f6e6a1ceee4d51d45963539003287e13d81aff
+
+COCOAPODS: 1.10.0

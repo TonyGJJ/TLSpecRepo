@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'TLTestPod_Example' do
+  pod 'TLTestPod', :path => '../'
+
+  target 'TLTestPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
